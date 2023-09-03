@@ -1,3 +1,6 @@
+# About this template
+- This template is already configured with Routing, Tailwind CSS, Context API so that you can quickly start your project
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
